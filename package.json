@@ -1,0 +1,23 @@
+{
+  "name": "jest_test_2022_gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimbaeva/jest_test_2022_gb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimbaeva/jest_test_2022_gb/issues"
+  },
+  "homepage": "https://github.com/alimbaeva/jest_test_2022_gb#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
